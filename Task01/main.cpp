@@ -1,4 +1,4 @@
-#include <iostream>
+п»ї#include <iostream>
 #include "util.h"
 #include "sort.h"
 #include <ctime>
@@ -6,7 +6,7 @@ using namespace std;
 
 #define SIZE 10
 
-// Это самый мощный комментарий... :))
+// Р­С‚Рѕ СЃР°РјС‹Р№ РјРѕС‰РЅС‹Р№ РєРѕРјРјРµРЅС‚Р°СЂРёР№... :))
 int main() {
 	int array[]{ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
 
